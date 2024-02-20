@@ -18,4 +18,4 @@ spec:
           service:
             name: uniovi-avib-morphingprojections-backend-organization
             port:
-              number: 8081
+              number: 8082
