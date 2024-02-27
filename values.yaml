@@ -8,7 +8,7 @@ image:
   repository: avibdocker.azurecr.io/uniovi-avib-morphingprojections-backend-organization
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "1.1.0"
+  tag: "1.2.0"
 
 # get Private Container Registry credentials to have access previous pull any container image
 imagePullSecrets:
